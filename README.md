@@ -51,7 +51,7 @@ Metrics generated:
 - Precision  
 - Recall  
 - F1-Score  
-- Confusion matrix  
+- ROC AUC  
 
 ### **8️⃣ Final Results & Insights**
 The notebook includes:
